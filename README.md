@@ -1,7 +1,7 @@
 
 Hi. This repository contains every code compiled and created in the final degree project.
 
-- The STM32_code constins code that can be used to test the stm32 in a location system.
+- The STM32_code contains the code that can be used to test the stm32 in a location system.
 - The main_YMFC contains the drone code.
 - The testgeneral is to test arduino uno.
 - ACF3 and AI3 are object detector used in the project.
