@@ -12,4 +12,4 @@ Hi. This repository contains every code compiled and created in the final degree
 Furthermore every file is explained/commented in case of doubts!!
 All sources used are exposed within the files code.
 
-Have fun!! I case of doubts or error, no doubt in send me a message.
+Have fun!! I case of doubts or errors, feel free in message me.
